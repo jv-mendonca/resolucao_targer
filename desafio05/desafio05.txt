@@ -1,0 +1,11 @@
+Resolução:
+
+1. Ligue o primeiro interruptor (Interruptor 1) e deixe-o ligado por um tempo (por exemplo, 10 minutos).
+
+2. Depois de aguardar, desligue o Interruptor 1 e ligue o segundo interruptor (Interruptor 2).
+
+3. Vá até a sala das lâmpadas e observe o seguinte:
+
+    - Lâmpada que está acesa: É controlada pelo Interruptor 2, que está ligado no momento.
+    - Lâmpada que está apagada e quente ao toque: É controlada pelo Interruptor 1, pois estava ligada por um tempo e ainda está quente.
+    - Lâmpada que está apagada e fria: É controlada pelo Interruptor 3, pois nunca foi ligada.
